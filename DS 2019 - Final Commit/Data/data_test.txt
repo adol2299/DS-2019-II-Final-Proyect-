@@ -1,0 +1,5 @@
+212121 Einstein Berlin 321654 Merlin Londres 78965 Boeing 200 654 657
+324856 Dorado Bogota 756135 Bolivar Cartagena 897531 Airbus 70 123 125
+212121 Einstein Berlin 756135 Bolivar Cartagena 897531 Airbus 70 123 125
+212121 Einstein Berlin 756135 Napoleon Paris 897531 Airbus 70 153 125
+212121 Einstein Berlin 321654 Stalin Moscu 78965 Boeing 200 634 657

@@ -1,0 +1,12 @@
+Librerías usadas en el proyecto
+
+*javax.swing.joptionpane
+*java.io.BufferedReader
+*java.io.File
+*java.io.FileReader
+*java.io.IOException
+*java.util.logging.Level
+*java.util.logging.Logger
+*java.util.TreeMap
+*java.util.Map
+*java.util.Random
